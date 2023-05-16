@@ -1,0 +1,24 @@
+.section {
+    margin: 50px;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.button {
+    background-color: #f2f2f2;
+    color: #333;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    border: none;
+}
+
+.button:hover {
+    background-color: #ddd;
+}
