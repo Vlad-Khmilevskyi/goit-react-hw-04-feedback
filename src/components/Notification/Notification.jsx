@@ -1,11 +1,11 @@
 import React from 'react';
 
 function Notification({ message }) {
-    return (
-        <div>
-            <p>{message}</p>
-        </div>
-    );
+  return (
+    <div>
+      <p>{message}</p>
+    </div>
+  );
 }
 
 export default Notification;
